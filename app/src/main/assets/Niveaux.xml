@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Niveaux>
+    <Niveau ID="1" Name="Niveau1" mob="mob1" imageNiveau="mob1_face.png"/>
+    <Niveau ID="2" Name="Niveau2" mob="mob2" imageNiveau="mob2_face.png"/>
+    <Niveau ID="3" Name="Niveau3" mob="mob3" imageNiveau="mob3_face.png"/>
+    <Niveau ID="4" Name="Niveau4" mob="mob4" imageNiveau="mob4_face.png"/>
+    <Niveau ID="5" Name="Niveau5" mob="mob5" imageNiveau="mob5_face.png"/>
+    <Niveau ID="6" Name="Niveau6" mob="mob6" imageNiveau="mob6_face.png"/>
+</Niveaux>

@@ -1,0 +1,731 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Motifs>
+
+    <Motif ID="1" Name="MotifLigneDroite" procConditionPercentageHp="100" procConditionTime="1000" duration="3000" motifWeight="1">
+        <BulletGenerators>
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="20" angle="270" timeToGo="0" range="1500" speed="10" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="20" angle="270" timeToGo="200" range="1500" speed="10" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="20" angle="270" timeToGo="400" range="1500" speed="10" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="80" size_Y="80" posPerc_X="50" posPerc_Y="20" angle="270" timeToGo="600" range="1500" speed="10" spriteBullet="proj3" timePerFrameAnim="10000" damage="15" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="20" angle="270" timeToGo="800" range="1500" speed="10" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+        </BulletGenerators>
+    </Motif>
+
+    <Motif ID="2" Name="MotifCroix" procConditionPercentageHp="90" procConditionTime="2000" duration="2000" motifWeight="1">
+        <BulletGenerators>
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="50" posPerc_Y="30" angle="270" timeToGo="0" range="1500" speed="8" spriteBullet="proj3" timePerFrameAnim="10000" damage="15" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="50" posPerc_Y="30" angle="90" timeToGo="0" range="1500" speed="8" spriteBullet="proj3" timePerFrameAnim="10000" damage="15" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="50" posPerc_Y="30" angle="0" timeToGo="0" range="1500" speed="8" spriteBullet="proj3" timePerFrameAnim="10000" damage="15" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="50" posPerc_Y="30" angle="180" timeToGo="0" range="1500" speed="8" spriteBullet="proj3" timePerFrameAnim="10000" damage="15" />
+        </BulletGenerators>
+    </Motif>
+    <Motif ID="3" Name="MotifLigneTroueMid" procConditionPercentageHp="85" procConditionTime="2000" duration="2000" motifWeight="1">
+        <BulletGenerators>
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="5" posPerc_Y="5" angle="270" timeToGo="0" range="2000" speed="7" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="10" posPerc_Y="5" angle="270" timeToGo="0" range="2000" speed="7" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="15" posPerc_Y="5" angle="270" timeToGo="0" range="2000" speed="7" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="20" posPerc_Y="5" angle="270" timeToGo="0" range="2000" speed="7" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="25" posPerc_Y="5" angle="270" timeToGo="0" range="2000" speed="7" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="30" posPerc_Y="5" angle="270" timeToGo="0" range="2000" speed="7" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="35" posPerc_Y="5" angle="270" timeToGo="0" range="2000" speed="7" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="65" posPerc_Y="5" angle="270" timeToGo="0" range="2000" speed="7" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="70" posPerc_Y="5" angle="270" timeToGo="0" range="2000" speed="7" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="75" posPerc_Y="5" angle="270" timeToGo="0" range="2000" speed="7" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="80" posPerc_Y="5" angle="270" timeToGo="0" range="2000" speed="7" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="85" posPerc_Y="5" angle="270" timeToGo="0" range="2000" speed="7" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="90" posPerc_Y="5" angle="270" timeToGo="0" range="2000" speed="7" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="95" posPerc_Y="5" angle="270" timeToGo="0" range="2000" speed="7" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+        </BulletGenerators>
+    </Motif>
+    <Motif ID="4" Name="MotifLigne" procConditionPercentageHp="80" procConditionTime="2000" duration="2000" motifWeight="1">
+        <BulletGenerators>
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="5" posPerc_Y="5" angle="270" timeToGo="0" range="2000" speed="7" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="15" posPerc_Y="5" angle="270" timeToGo="0" range="2000" speed="7" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="25" posPerc_Y="5" angle="270" timeToGo="0" range="2000" speed="7" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="35" posPerc_Y="5" angle="270" timeToGo="0" range="2000" speed="7" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="45" posPerc_Y="5" angle="270" timeToGo="0" range="2000" speed="7" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="55" posPerc_Y="5" angle="270" timeToGo="0" range="2000" speed="7" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="65" posPerc_Y="5" angle="270" timeToGo="0" range="2000" speed="7" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="75" posPerc_Y="5" angle="270" timeToGo="0" range="2000" speed="7" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="85" posPerc_Y="5" angle="270" timeToGo="0" range="2000" speed="7" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="95" posPerc_Y="5" angle="270" timeToGo="0" range="2000" speed="7" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+        </BulletGenerators>
+    </Motif>
+    <Motif ID="5" Name="MotifFouet" procConditionPercentageHp="75" procConditionTime="10000" duration="2000" motifWeight="2">
+        <BulletGenerators>
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="255" timeToGo="0" range="2000" speed="7" spriteBullet="proj3" timePerFrameAnim="10000" damage="15" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="258" timeToGo="32" range="2000" speed="7" spriteBullet="proj3" timePerFrameAnim="10000" damage="15" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="261" timeToGo="64" range="2000" speed="7" spriteBullet="proj3" timePerFrameAnim="10000" damage="15" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="264" timeToGo="96" range="2000" speed="7" spriteBullet="proj3" timePerFrameAnim="10000" damage="15" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="267" timeToGo="128" range="2000" speed="7" spriteBullet="proj3" timePerFrameAnim="10000" damage="15" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="270" timeToGo="160" range="2000" speed="7" spriteBullet="proj3" timePerFrameAnim="10000" damage="15" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="273" timeToGo="192" range="2000" speed="7" spriteBullet="proj3" timePerFrameAnim="10000" damage="15" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="276" timeToGo="224" range="2000" speed="7" spriteBullet="proj3" timePerFrameAnim="10000" damage="15" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="279" timeToGo="256" range="2000" speed="7" spriteBullet="proj3" timePerFrameAnim="10000" damage="15" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="282" timeToGo="288" range="2000" speed="7" spriteBullet="proj3" timePerFrameAnim="10000" damage="15" />
+        </BulletGenerators>
+    </Motif>
+
+    <Motif ID="6" Name="MotifEtoile" procConditionPercentageHp="60" procConditionTime="0" duration="2000" motifWeight="1">
+        <BulletGenerators>
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="50" posPerc_Y="30" angle="270" timeToGo="0" range="1500" speed="8" spriteBullet="proj3" timePerFrameAnim="10000" damage="15" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="50" posPerc_Y="30" angle="90" timeToGo="0" range="1500" speed="8" spriteBullet="proj3" timePerFrameAnim="10000" damage="15" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="50" posPerc_Y="30" angle="0" timeToGo="0" range="1500" speed="8" spriteBullet="proj3" timePerFrameAnim="10000" damage="15" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="50" posPerc_Y="30" angle="180" timeToGo="0" range="1500" speed="8" spriteBullet="proj3" timePerFrameAnim="10000" damage="15" />
+
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="50" posPerc_Y="30" angle="45" timeToGo="0" range="1500" speed="8" spriteBullet="proj3" timePerFrameAnim="10000" damage="15" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="50" posPerc_Y="30" angle="135" timeToGo="0" range="1500" speed="8" spriteBullet="proj3" timePerFrameAnim="10000" damage="15" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="50" posPerc_Y="30" angle="225" timeToGo="0" range="1500" speed="8" spriteBullet="proj3" timePerFrameAnim="10000" damage="15" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="50" posPerc_Y="30" angle="315" timeToGo="0" range="1500" speed="8" spriteBullet="proj3" timePerFrameAnim="10000" damage="15" />
+        </BulletGenerators>
+    </Motif>
+
+    <Motif ID="7" Name="MotifLance" procConditionPercentageHp="50" procConditionTime="10000" duration="2500" motifWeight="1">
+        <BulletGenerators>
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="255" timeToGo="0" range="2000" speed="8" spriteBullet="proj3" timePerFrameAnim="10000" damage="15" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="258" timeToGo="100" range="2000" speed="8" spriteBullet="proj3" timePerFrameAnim="10000" damage="15" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="261" timeToGo="200" range="2000" speed="8" spriteBullet="proj3" timePerFrameAnim="10000" damage="15" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="264" timeToGo="300" range="2000" speed="8" spriteBullet="proj3" timePerFrameAnim="10000" damage="15" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="267" timeToGo="400" range="2000" speed="8" spriteBullet="proj3" timePerFrameAnim="10000" damage="15" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="270" timeToGo="500" range="2000" speed="8" spriteBullet="proj3" timePerFrameAnim="10000" damage="15" />
+
+
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="285" timeToGo="0" range="2000" speed="8" spriteBullet="proj3" timePerFrameAnim="10000" damage="15" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="282" timeToGo="100" range="2000" speed="8" spriteBullet="proj3" timePerFrameAnim="10000" damage="15" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="279" timeToGo="200" range="2000" speed="8" spriteBullet="proj3" timePerFrameAnim="10000" damage="15" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="276" timeToGo="300" range="2000" speed="8" spriteBullet="proj3" timePerFrameAnim="10000" damage="15" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="273" timeToGo="400" range="2000" speed="8" spriteBullet="proj3" timePerFrameAnim="10000" damage="15" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="270" timeToGo="500" range="2000" speed="8" spriteBullet="proj3" timePerFrameAnim="10000" damage="15" />
+        </BulletGenerators>
+    </Motif>
+
+    <Motif ID="8" Name="MotifTentacule" procConditionPercentageHp="40" procConditionTime="0" duration="2500" motifWeight="1">
+        <BulletGenerators>
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="35" posPerc_Y="15" angle="180" timeToGo="0" range="2000" speed="9" spriteBullet="proj3" timePerFrameAnim="10000" damage="15" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="35" posPerc_Y="15" angle="195" timeToGo="100" range="2000" speed="9" spriteBullet="proj3" timePerFrameAnim="10000" damage="15" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="35" posPerc_Y="15" angle="205" timeToGo="200" range="2000" speed="9" spriteBullet="proj3" timePerFrameAnim="10000" damage="15" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="35" posPerc_Y="15" angle="215" timeToGo="300" range="2000" speed="9" spriteBullet="proj3" timePerFrameAnim="10000" damage="15" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="35" posPerc_Y="15" angle="225" timeToGo="400" range="2000" speed="9" spriteBullet="proj3" timePerFrameAnim="10000" damage="15" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="35" posPerc_Y="15" angle="235" timeToGo="500" range="2000" speed="9" spriteBullet="proj3" timePerFrameAnim="10000" damage="15" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="35" posPerc_Y="15" angle="245" timeToGo="600" range="2000" speed="9" spriteBullet="proj3" timePerFrameAnim="10000" damage="15" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="35" posPerc_Y="15" angle="255" timeToGo="700" range="2000" speed="9" spriteBullet="proj3" timePerFrameAnim="10000" damage="15" />
+
+
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="65" posPerc_Y="15" angle="360" timeToGo="0" range="2000" speed="9" spriteBullet="proj3" timePerFrameAnim="10000" damage="15" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="65" posPerc_Y="15" angle="345" timeToGo="100" range="2000" speed="9" spriteBullet="proj3" timePerFrameAnim="10000" damage="15" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="65" posPerc_Y="15" angle="335" timeToGo="200" range="2000" speed="9" spriteBullet="proj3" timePerFrameAnim="10000" damage="15" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="65" posPerc_Y="15" angle="325" timeToGo="300" range="2000" speed="9" spriteBullet="proj3" timePerFrameAnim="10000" damage="15" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="65" posPerc_Y="15" angle="315" timeToGo="400" range="2000" speed="9" spriteBullet="proj3" timePerFrameAnim="10000" damage="15" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="65" posPerc_Y="15" angle="305" timeToGo="500" range="2000" speed="9" spriteBullet="proj3" timePerFrameAnim="10000" damage="15" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="65" posPerc_Y="15" angle="295" timeToGo="600" range="2000" speed="9" spriteBullet="proj3" timePerFrameAnim="10000" damage="15" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="65" posPerc_Y="15" angle="285" timeToGo="700" range="2000" speed="9" spriteBullet="proj3" timePerFrameAnim="10000" damage="15" />
+        </BulletGenerators>
+    </Motif>
+
+    <Motif ID="9" Name="MotifBarage" procConditionPercentageHp="30" procConditionTime="0" duration="6500" motifWeight="2">
+        <BulletGenerators>
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="0" posPerc_Y="35" angle="270" timeToGo="0" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="5" posPerc_Y="35" angle="270" timeToGo="0" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="10" posPerc_Y="35" angle="270" timeToGo="0" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="15" posPerc_Y="35" angle="270" timeToGo="0" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="20" posPerc_Y="35" angle="270" timeToGo="0" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="25" posPerc_Y="35" angle="270" timeToGo="0" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="30" posPerc_Y="35" angle="270" timeToGo="0" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="35" posPerc_Y="35" angle="270" timeToGo="0" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="65" posPerc_Y="35" angle="270" timeToGo="0" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="70" posPerc_Y="35" angle="270" timeToGo="0" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="75" posPerc_Y="35" angle="270" timeToGo="0" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="80" posPerc_Y="35" angle="270" timeToGo="0" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="85" posPerc_Y="35" angle="270" timeToGo="0" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="90" posPerc_Y="35" angle="270" timeToGo="0" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="95" posPerc_Y="35" angle="270" timeToGo="0" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="100" posPerc_Y="35" angle="270" timeToGo="0" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="0" posPerc_Y="35" angle="270" timeToGo="500" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="5" posPerc_Y="35" angle="270" timeToGo="500" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="10" posPerc_Y="35" angle="270" timeToGo="500" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="15" posPerc_Y="35" angle="270" timeToGo="500" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="20" posPerc_Y="35" angle="270" timeToGo="500" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="25" posPerc_Y="35" angle="270" timeToGo="500" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="30" posPerc_Y="35" angle="270" timeToGo="500" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="35" posPerc_Y="35" angle="270" timeToGo="500" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="65" posPerc_Y="35" angle="270" timeToGo="500" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="70" posPerc_Y="35" angle="270" timeToGo="500" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="75" posPerc_Y="35" angle="270" timeToGo="500" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="80" posPerc_Y="35" angle="270" timeToGo="500" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="85" posPerc_Y="35" angle="270" timeToGo="500" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="90" posPerc_Y="35" angle="270" timeToGo="500" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="95" posPerc_Y="35" angle="270" timeToGo="500" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="100" posPerc_Y="35" angle="270" timeToGo="500" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+
+
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="0" posPerc_Y="35" angle="270" timeToGo="1000" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="5" posPerc_Y="35" angle="270" timeToGo="1000" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="10" posPerc_Y="35" angle="270" timeToGo="1000" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="15" posPerc_Y="35" angle="270" timeToGo="1000" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="20" posPerc_Y="35" angle="270" timeToGo="1000" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="25" posPerc_Y="35" angle="270" timeToGo="1000" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="30" posPerc_Y="35" angle="270" timeToGo="1000" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="35" posPerc_Y="35" angle="270" timeToGo="1000" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="40" posPerc_Y="35" angle="270" timeToGo="1000" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="45" posPerc_Y="35" angle="270" timeToGo="1000" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="50" posPerc_Y="35" angle="270" timeToGo="1000" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="80" posPerc_Y="35" angle="270" timeToGo="1000" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="85" posPerc_Y="35" angle="270" timeToGo="1000" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="90" posPerc_Y="35" angle="270" timeToGo="1000" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="95" posPerc_Y="35" angle="270" timeToGo="1000" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="100" posPerc_Y="35" angle="270" timeToGo="1000" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="0" posPerc_Y="35" angle="270" timeToGo="1500" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="5" posPerc_Y="35" angle="270" timeToGo="1500" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="10" posPerc_Y="35" angle="270" timeToGo="1500" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="15" posPerc_Y="35" angle="270" timeToGo="1500" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="20" posPerc_Y="35" angle="270" timeToGo="1500" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="25" posPerc_Y="35" angle="270" timeToGo="1500" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="30" posPerc_Y="35" angle="270" timeToGo="1500" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="35" posPerc_Y="35" angle="270" timeToGo="1500" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="40" posPerc_Y="35" angle="270" timeToGo="1500" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="45" posPerc_Y="35" angle="270" timeToGo="1500" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="50" posPerc_Y="35" angle="270" timeToGo="1500" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="80" posPerc_Y="35" angle="270" timeToGo="1500" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="85" posPerc_Y="35" angle="270" timeToGo="1500" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="90" posPerc_Y="35" angle="270" timeToGo="1500" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="95" posPerc_Y="35" angle="270" timeToGo="1500" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="100" posPerc_Y="35" angle="270" timeToGo="1500" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+
+
+
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="0" posPerc_Y="35" angle="270" timeToGo="2000" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="5" posPerc_Y="35" angle="270" timeToGo="2000" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="10" posPerc_Y="35" angle="270" timeToGo="2000" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="15" posPerc_Y="35" angle="270" timeToGo="2000" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="20" posPerc_Y="35" angle="270" timeToGo="2000" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="25" posPerc_Y="35" angle="270" timeToGo="2000" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="30" posPerc_Y="35" angle="270" timeToGo="2000" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="35" posPerc_Y="35" angle="270" timeToGo="2000" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="65" posPerc_Y="35" angle="270" timeToGo="2000" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="70" posPerc_Y="35" angle="270" timeToGo="2000" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="75" posPerc_Y="35" angle="270" timeToGo="2000" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="80" posPerc_Y="35" angle="270" timeToGo="2000" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="85" posPerc_Y="35" angle="270" timeToGo="2000" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="90" posPerc_Y="35" angle="270" timeToGo="2000" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="95" posPerc_Y="35" angle="270" timeToGo="2000" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="100" posPerc_Y="35" angle="270" timeToGo="2000" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="0" posPerc_Y="35" angle="270" timeToGo="2500" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="5" posPerc_Y="35" angle="270" timeToGo="2500" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="10" posPerc_Y="35" angle="270" timeToGo="2500" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="15" posPerc_Y="35" angle="270" timeToGo="2500" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="20" posPerc_Y="35" angle="270" timeToGo="2500" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="25" posPerc_Y="35" angle="270" timeToGo="2500" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="30" posPerc_Y="35" angle="270" timeToGo="2500" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="35" posPerc_Y="35" angle="270" timeToGo="2500" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="65" posPerc_Y="35" angle="270" timeToGo="2500" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="70" posPerc_Y="35" angle="270" timeToGo="2500" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="75" posPerc_Y="35" angle="270" timeToGo="2500" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="80" posPerc_Y="35" angle="270" timeToGo="2500" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="85" posPerc_Y="35" angle="270" timeToGo="2500" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="90" posPerc_Y="35" angle="270" timeToGo="2500" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="95" posPerc_Y="35" angle="270" timeToGo="2500" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="100" posPerc_Y="35" angle="270" timeToGo="2500" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+
+
+
+
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="0" posPerc_Y="35" angle="270" timeToGo="3000" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="5" posPerc_Y="35" angle="270" timeToGo="3000" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="10" posPerc_Y="35" angle="270" timeToGo="3000" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="15" posPerc_Y="35" angle="270" timeToGo="3000" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="20" posPerc_Y="35" angle="270" timeToGo="3000" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="50" posPerc_Y="35" angle="270" timeToGo="3000" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="55" posPerc_Y="35" angle="270" timeToGo="3000" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="60" posPerc_Y="35" angle="270" timeToGo="3000" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="65" posPerc_Y="35" angle="270" timeToGo="3000" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="70" posPerc_Y="35" angle="270" timeToGo="3000" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="75" posPerc_Y="35" angle="270" timeToGo="3000" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="80" posPerc_Y="35" angle="270" timeToGo="3000" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="85" posPerc_Y="35" angle="270" timeToGo="3000" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="90" posPerc_Y="35" angle="270" timeToGo="3000" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="95" posPerc_Y="35" angle="270" timeToGo="3000" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="100" posPerc_Y="35" angle="270" timeToGo="3000" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="0" posPerc_Y="35" angle="270" timeToGo="3500" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="5" posPerc_Y="35" angle="270" timeToGo="3500" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="10" posPerc_Y="35" angle="270" timeToGo="3500" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="15" posPerc_Y="35" angle="270" timeToGo="3500" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="20" posPerc_Y="35" angle="270" timeToGo="3500" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="50" posPerc_Y="35" angle="270" timeToGo="3500" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="55" posPerc_Y="35" angle="270" timeToGo="3500" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="60" posPerc_Y="35" angle="270" timeToGo="3500" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="65" posPerc_Y="35" angle="270" timeToGo="3500" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="70" posPerc_Y="35" angle="270" timeToGo="3500" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="75" posPerc_Y="35" angle="270" timeToGo="3500" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="80" posPerc_Y="35" angle="270" timeToGo="3500" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="85" posPerc_Y="35" angle="270" timeToGo="3500" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="90" posPerc_Y="35" angle="270" timeToGo="3500" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="95" posPerc_Y="35" angle="270" timeToGo="3500" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="50" size_Y="50" posPerc_X="100" posPerc_Y="35" angle="270" timeToGo="3500" range="2000" speed="4" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+        </BulletGenerators>
+    </Motif>
+
+    <Motif ID="10" Name="MotifBoules" procConditionPercentageHp="100" procConditionTime="15000" duration="1000" motifWeight="1">
+        <BulletGenerators>
+            <BulletGenerator size_X="140" size_Y="140" posPerc_X="50" posPerc_Y="0" angle="235" timeToGo="0" range="2000" speed="9" spriteBullet="proj3" timePerFrameAnim="10000" damage="15" />
+            <BulletGenerator size_X="140" size_Y="140" posPerc_X="50" posPerc_Y="0" angle="305" timeToGo="0" range="2000" speed="9" spriteBullet="proj3" timePerFrameAnim="10000" damage="15" />
+            <BulletGenerator size_X="140" size_Y="140" posPerc_X="50" posPerc_Y="0" angle="270" timeToGo="500" range="2000" speed="9" spriteBullet="proj3" timePerFrameAnim="10000" damage="15" />
+
+        </BulletGenerators>
+    </Motif>
+
+    <Motif ID="11" Name="MotifTrains" procConditionPercentageHp="40" procConditionTime="0" duration="3000" motifWeight="1">
+        <BulletGenerators>
+            <BulletGenerator size_X="55" size_Y="55" posPerc_X="30" posPerc_Y="0" angle="270" timeToGo="0" range="2000" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="55" size_Y="55" posPerc_X="30" posPerc_Y="0" angle="270" timeToGo="300" range="2000" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="55" size_Y="55" posPerc_X="30" posPerc_Y="0" angle="270" timeToGo="600" range="2000" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="55" size_Y="55" posPerc_X="30" posPerc_Y="0" angle="270" timeToGo="900" range="2000" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="55" size_Y="55" posPerc_X="30" posPerc_Y="0" angle="270" timeToGo="1200" range="2000" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="55" size_Y="55" posPerc_X="30" posPerc_Y="0" angle="270" timeToGo="1500" range="2000" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="55" size_Y="55" posPerc_X="30" posPerc_Y="0" angle="270" timeToGo="1800" range="2000" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+
+            <BulletGenerator size_X="55" size_Y="55" posPerc_X="70" posPerc_Y="0" angle="270" timeToGo="0" range="2000" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="55" size_Y="55" posPerc_X="70" posPerc_Y="0" angle="270" timeToGo="300" range="2000" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="55" size_Y="55" posPerc_X="70" posPerc_Y="0" angle="270" timeToGo="600" range="2000" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="55" size_Y="55" posPerc_X="70" posPerc_Y="0" angle="270" timeToGo="900" range="2000" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="55" size_Y="55" posPerc_X="70" posPerc_Y="0" angle="270" timeToGo="1200" range="2000" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="55" size_Y="55" posPerc_X="70" posPerc_Y="0" angle="270" timeToGo="1500" range="2000" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="55" size_Y="55" posPerc_X="70" posPerc_Y="0" angle="270" timeToGo="1800" range="2000" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+        </BulletGenerators>
+    </Motif>
+
+    <Motif ID="12" Name="MotifEclipse" procConditionPercentageHp="25" procConditionTime="0" duration="8000" motifWeight="1">
+        <BulletGenerators>
+            <BulletGenerator size_X="500" size_Y="500" posPerc_X="50" posPerc_Y="0" angle="270" timeToGo="0" range="2500" speed="2" spriteBullet="proj2" timePerFrameAnim="10000" damage="20" />
+        </BulletGenerators>
+    </Motif>
+
+    <Motif ID="13" Name="MotifChampMines" procConditionPercentageHp="50" procConditionTime="20000" duration="5000" motifWeight="2">
+        <BulletGenerators>
+            <BulletGenerator size_X="30" size_Y="30" posPerc_X="0" posPerc_Y="0" angle="270" timeToGo="0" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="30" size_Y="30" posPerc_X="10" posPerc_Y="0" angle="270" timeToGo="0" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="30" size_Y="30" posPerc_X="20" posPerc_Y="0" angle="270" timeToGo="0" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="30" size_Y="30" posPerc_X="30" posPerc_Y="0" angle="270" timeToGo="0" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="30" size_Y="30" posPerc_X="40" posPerc_Y="0" angle="270" timeToGo="0" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="30" size_Y="30" posPerc_X="50" posPerc_Y="0" angle="270" timeToGo="0" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="30" size_Y="30" posPerc_X="60" posPerc_Y="0" angle="270" timeToGo="0" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="30" size_Y="30" posPerc_X="70" posPerc_Y="0" angle="270" timeToGo="0" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="30" size_Y="30" posPerc_X="80" posPerc_Y="0" angle="270" timeToGo="0" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="30" size_Y="30" posPerc_X="90" posPerc_Y="0" angle="270" timeToGo="0" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="30" size_Y="30" posPerc_X="100" posPerc_Y="0" angle="270" timeToGo="0" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+
+            <BulletGenerator size_X="30" size_Y="30" posPerc_X="5" posPerc_Y="0" angle="270" timeToGo="500" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="30" size_Y="30" posPerc_X="15" posPerc_Y="0" angle="270" timeToGo="500" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="30" size_Y="30" posPerc_X="25" posPerc_Y="0" angle="270" timeToGo="500" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="30" size_Y="30" posPerc_X="35" posPerc_Y="0" angle="270" timeToGo="500" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="30" size_Y="30" posPerc_X="45" posPerc_Y="0" angle="270" timeToGo="500" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="30" size_Y="30" posPerc_X="55" posPerc_Y="0" angle="270" timeToGo="500" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="30" size_Y="30" posPerc_X="65" posPerc_Y="0" angle="270" timeToGo="500" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="30" size_Y="30" posPerc_X="75" posPerc_Y="0" angle="270" timeToGo="500" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="30" size_Y="30" posPerc_X="85" posPerc_Y="0" angle="270" timeToGo="500" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="30" size_Y="30" posPerc_X="95" posPerc_Y="0" angle="270" timeToGo="500" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+
+            <BulletGenerator size_X="30" size_Y="30" posPerc_X="0" posPerc_Y="0" angle="270" timeToGo="1000" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="30" size_Y="30" posPerc_X="10" posPerc_Y="0" angle="270" timeToGo="1000" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="30" size_Y="30" posPerc_X="20" posPerc_Y="0" angle="270" timeToGo="1000" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="30" size_Y="30" posPerc_X="30" posPerc_Y="0" angle="270" timeToGo="1000" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="30" size_Y="30" posPerc_X="40" posPerc_Y="0" angle="270" timeToGo="1000" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="30" size_Y="30" posPerc_X="50" posPerc_Y="0" angle="270" timeToGo="1000" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="30" size_Y="30" posPerc_X="60" posPerc_Y="0" angle="270" timeToGo="1000" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="30" size_Y="30" posPerc_X="70" posPerc_Y="0" angle="270" timeToGo="1000" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="30" size_Y="30" posPerc_X="80" posPerc_Y="0" angle="270" timeToGo="1000" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="30" size_Y="30" posPerc_X="90" posPerc_Y="0" angle="270" timeToGo="1000" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="30" size_Y="30" posPerc_X="100" posPerc_Y="0" angle="270" timeToGo="1000" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+
+            <BulletGenerator size_X="30" size_Y="30" posPerc_X="5" posPerc_Y="0" angle="270" timeToGo="1500" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="30" size_Y="30" posPerc_X="15" posPerc_Y="0" angle="270" timeToGo="1500" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="30" size_Y="30" posPerc_X="25" posPerc_Y="0" angle="270" timeToGo="1500" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="30" size_Y="30" posPerc_X="35" posPerc_Y="0" angle="270" timeToGo="1500" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="30" size_Y="30" posPerc_X="45" posPerc_Y="0" angle="270" timeToGo="1500" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="30" size_Y="30" posPerc_X="55" posPerc_Y="0" angle="270" timeToGo="1500" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="30" size_Y="30" posPerc_X="65" posPerc_Y="0" angle="270" timeToGo="1500" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="30" size_Y="30" posPerc_X="75" posPerc_Y="0" angle="270" timeToGo="1500" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="30" size_Y="30" posPerc_X="85" posPerc_Y="0" angle="270" timeToGo="1500" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="30" size_Y="30" posPerc_X="95" posPerc_Y="0" angle="270" timeToGo="1500" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+
+            <BulletGenerator size_X="30" size_Y="30" posPerc_X="0" posPerc_Y="0" angle="270" timeToGo="2000" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="30" size_Y="30" posPerc_X="10" posPerc_Y="0" angle="270" timeToGo="2000" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="30" size_Y="30" posPerc_X="20" posPerc_Y="0" angle="270" timeToGo="2000" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="30" size_Y="30" posPerc_X="30" posPerc_Y="0" angle="270" timeToGo="2000" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="30" size_Y="30" posPerc_X="40" posPerc_Y="0" angle="270" timeToGo="2000" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="30" size_Y="30" posPerc_X="50" posPerc_Y="0" angle="270" timeToGo="2000" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="30" size_Y="30" posPerc_X="60" posPerc_Y="0" angle="270" timeToGo="2000" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="30" size_Y="30" posPerc_X="70" posPerc_Y="0" angle="270" timeToGo="2000" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="30" size_Y="30" posPerc_X="80" posPerc_Y="0" angle="270" timeToGo="2000" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="30" size_Y="30" posPerc_X="90" posPerc_Y="0" angle="270" timeToGo="2000" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="30" size_Y="30" posPerc_X="100" posPerc_Y="0" angle="270" timeToGo="2000" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+
+            <BulletGenerator size_X="30" size_Y="30" posPerc_X="5" posPerc_Y="0" angle="270" timeToGo="2500" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="30" size_Y="30" posPerc_X="15" posPerc_Y="0" angle="270" timeToGo="2500" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="30" size_Y="30" posPerc_X="25" posPerc_Y="0" angle="270" timeToGo="2500" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="30" size_Y="30" posPerc_X="35" posPerc_Y="0" angle="270" timeToGo="2500" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="30" size_Y="30" posPerc_X="45" posPerc_Y="0" angle="270" timeToGo="2500" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="30" size_Y="30" posPerc_X="55" posPerc_Y="0" angle="270" timeToGo="2500" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="30" size_Y="30" posPerc_X="65" posPerc_Y="0" angle="270" timeToGo="2500" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="30" size_Y="30" posPerc_X="75" posPerc_Y="0" angle="270" timeToGo="2500" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="30" size_Y="30" posPerc_X="85" posPerc_Y="0" angle="270" timeToGo="2500" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="30" size_Y="30" posPerc_X="95" posPerc_Y="0" angle="270" timeToGo="2500" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+
+
+        </BulletGenerators>
+    </Motif>
+
+    <Motif ID="14" Name="MotifBordure" procConditionPercentageHp="100" procConditionTime="10000" duration="1000" motifWeight="1">
+        <BulletGenerators>
+            <BulletGenerator size_X="80" size_Y="80" posPerc_X="1" posPerc_Y="0" angle="270" timeToGo="0" range="2500" speed="5" spriteBullet="proj3" timePerFrameAnim="10000" damage="15" />
+            <BulletGenerator size_X="80" size_Y="80" posPerc_X="99" posPerc_Y="0" angle="270" timeToGo="0" range="2500" speed="5" spriteBullet="proj3" timePerFrameAnim="10000" damage="15" />
+        </BulletGenerators>
+    </Motif>
+
+    <Motif ID="15" Name="MotifCercleTentaculaire" procConditionPercentageHp="60" procConditionTime="0" duration="3000" motifWeight="2">
+        <BulletGenerators>
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="270" timeToGo="0" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="267" timeToGo="150" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="264" timeToGo="300" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="261" timeToGo="450" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="264" timeToGo="600" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="267" timeToGo="750" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="270" timeToGo="900" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="180" timeToGo="0" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="177" timeToGo="150" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="174" timeToGo="300" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="171" timeToGo="450" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="174" timeToGo="600" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="177" timeToGo="750" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="180" timeToGo="900" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="90" timeToGo="0" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="87" timeToGo="150" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="84" timeToGo="300" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="81" timeToGo="450" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="84" timeToGo="600" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="87" timeToGo="750" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="90" timeToGo="900" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="360" timeToGo="0" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="357" timeToGo="150" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="354" timeToGo="300" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="351" timeToGo="450" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="354" timeToGo="600" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="357" timeToGo="750" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="360" timeToGo="900" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+
+
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="225" timeToGo="0" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="222" timeToGo="150" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="219" timeToGo="300" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="216" timeToGo="450" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="219" timeToGo="600" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="222" timeToGo="750" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="225" timeToGo="900" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="135" timeToGo="0" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="132" timeToGo="150" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="129" timeToGo="300" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="126" timeToGo="450" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="129" timeToGo="600" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="132" timeToGo="750" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="135" timeToGo="900" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="45" timeToGo="0" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="42" timeToGo="150" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="39" timeToGo="300" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="36" timeToGo="450" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="39" timeToGo="600" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="42" timeToGo="750" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="45" timeToGo="900" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="315" timeToGo="0" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="312" timeToGo="150" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="309" timeToGo="300" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="306" timeToGo="450" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="309" timeToGo="600" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="312" timeToGo="750" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="315" timeToGo="900" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+
+        </BulletGenerators>
+    </Motif>
+
+    <Motif ID="16" Name="MotifCercleTentaculaireSimple+" procConditionPercentageHp="80" procConditionTime="0" duration="1000" motifWeight="1">
+        <BulletGenerators>
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="270" timeToGo="0" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="267" timeToGo="150" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="264" timeToGo="300" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="261" timeToGo="450" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="264" timeToGo="600" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="267" timeToGo="750" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="270" timeToGo="900" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="180" timeToGo="0" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="177" timeToGo="150" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="174" timeToGo="300" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="171" timeToGo="450" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="174" timeToGo="600" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="177" timeToGo="750" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="180" timeToGo="900" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="90" timeToGo="0" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="87" timeToGo="150" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="84" timeToGo="300" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="81" timeToGo="450" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="84" timeToGo="600" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="87" timeToGo="750" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="90" timeToGo="900" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="360" timeToGo="0" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="357" timeToGo="150" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="354" timeToGo="300" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="351" timeToGo="450" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="354" timeToGo="600" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="357" timeToGo="750" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="360" timeToGo="900" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+
+        </BulletGenerators>
+    </Motif>
+
+    <Motif ID="17" Name="MotifCercleTentaculaireSimplex" procConditionPercentageHp="80" procConditionTime="0" duration="1000" motifWeight="1">
+        <BulletGenerators>
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="225" timeToGo="0" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="222" timeToGo="150" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="219" timeToGo="300" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="216" timeToGo="450" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="219" timeToGo="600" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="222" timeToGo="750" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="225" timeToGo="900" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="135" timeToGo="0" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="132" timeToGo="150" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="129" timeToGo="300" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="126" timeToGo="450" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="129" timeToGo="600" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="132" timeToGo="750" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="135" timeToGo="900" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="45" timeToGo="0" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="42" timeToGo="150" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="39" timeToGo="300" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="36" timeToGo="450" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="39" timeToGo="600" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="42" timeToGo="750" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="45" timeToGo="900" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="315" timeToGo="0" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="312" timeToGo="150" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="309" timeToGo="300" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="306" timeToGo="450" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="309" timeToGo="600" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="312" timeToGo="750" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="40" size_Y="40" posPerc_X="50" posPerc_Y="15" angle="315" timeToGo="900" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+        </BulletGenerators>
+    </Motif>
+
+    <Motif ID="18" Name="MotifClaque" procConditionPercentageHp="50" procConditionTime="0" duration="3000" motifWeight="3">
+        <BulletGenerators>
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="225" timeToGo="0" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="222" timeToGo="150" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="219" timeToGo="300" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="216" timeToGo="450" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="219" timeToGo="600" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="222" timeToGo="750" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="225" timeToGo="900" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="245" timeToGo="0" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="242" timeToGo="150" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="239" timeToGo="300" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="236" timeToGo="450" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="239" timeToGo="600" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="242" timeToGo="750" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="245" timeToGo="900" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="265" timeToGo="0" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="262" timeToGo="150" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="259" timeToGo="300" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="256" timeToGo="450" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="259" timeToGo="600" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="262" timeToGo="750" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="265" timeToGo="900" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="285" timeToGo="0" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="282" timeToGo="150" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="279" timeToGo="300" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="276" timeToGo="450" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="279" timeToGo="600" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="282" timeToGo="750" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="285" timeToGo="900" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="305" timeToGo="0" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="302" timeToGo="150" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="299" timeToGo="300" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="296" timeToGo="450" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="299" timeToGo="600" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="302" timeToGo="750" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="305" timeToGo="900" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="325" timeToGo="0" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="322" timeToGo="150" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="319" timeToGo="300" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="316" timeToGo="450" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="319" timeToGo="600" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="322" timeToGo="750" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="325" timeToGo="900" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+        </BulletGenerators>
+    </Motif>
+
+    <Motif ID="19" Name="MotifTourbillon" procConditionPercentageHp="20" procConditionTime="20000" duration="8000" motifWeight="4">
+        <BulletGenerators>
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="185" timeToGo="0" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="182" timeToGo="150" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="179" timeToGo="300" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="176" timeToGo="450" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="173" timeToGo="600" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="170" timeToGo="750" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="167" timeToGo="900" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="164" timeToGo="1050" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="161" timeToGo="1200" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="158" timeToGo="1350" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="155" timeToGo="1500" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="152" timeToGo="1650" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="149" timeToGo="1800" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="146" timeToGo="1950" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+
+
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="205" timeToGo="0" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="202" timeToGo="150" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="199" timeToGo="300" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="196" timeToGo="450" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="193" timeToGo="600" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="190" timeToGo="750" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="187" timeToGo="900" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="184" timeToGo="1050" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="181" timeToGo="1200" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="178" timeToGo="1350" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="175" timeToGo="1500" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="172" timeToGo="1650" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="169" timeToGo="1800" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="166" timeToGo="1950" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="225" timeToGo="0" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="222" timeToGo="150" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="219" timeToGo="300" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="216" timeToGo="450" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="213" timeToGo="600" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="210" timeToGo="750" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="207" timeToGo="900" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="204" timeToGo="1050" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="201" timeToGo="1200" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="198" timeToGo="1350" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="195" timeToGo="1500" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="192" timeToGo="1650" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="189" timeToGo="1800" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="186" timeToGo="1950" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="245" timeToGo="0" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="242" timeToGo="150" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="239" timeToGo="300" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="236" timeToGo="450" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="233" timeToGo="600" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="230" timeToGo="750" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="227" timeToGo="900" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="224" timeToGo="1050" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="221" timeToGo="1200" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="218" timeToGo="1350" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="215" timeToGo="1500" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="212" timeToGo="1650" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="209" timeToGo="1800" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="206" timeToGo="1950" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="265" timeToGo="0" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="262" timeToGo="150" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="259" timeToGo="300" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="256" timeToGo="450" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="253" timeToGo="600" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="250" timeToGo="750" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="247" timeToGo="900" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="244" timeToGo="1050" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="241" timeToGo="1200" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="238" timeToGo="1350" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="235" timeToGo="1500" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="232" timeToGo="1650" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="229" timeToGo="1800" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="226" timeToGo="1950" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="285" timeToGo="0" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="282" timeToGo="150" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="279" timeToGo="300" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="276" timeToGo="450" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="273" timeToGo="600" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="270" timeToGo="750" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="267" timeToGo="900" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="264" timeToGo="1050" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="261" timeToGo="1200" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="258" timeToGo="1350" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="255" timeToGo="1500" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="252" timeToGo="1650" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="249" timeToGo="1800" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="246" timeToGo="1950" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="305" timeToGo="0" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="302" timeToGo="150" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="299" timeToGo="300" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="296" timeToGo="450" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="293" timeToGo="600" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="290" timeToGo="750" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="287" timeToGo="900" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="284" timeToGo="1050" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="281" timeToGo="1200" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="278" timeToGo="1350" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="275" timeToGo="1500" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="272" timeToGo="1650" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="269" timeToGo="1800" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="266" timeToGo="1950" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="325" timeToGo="0" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="322" timeToGo="150" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="319" timeToGo="300" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="316" timeToGo="450" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="313" timeToGo="600" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="310" timeToGo="750" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="307" timeToGo="900" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="304" timeToGo="1050" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="301" timeToGo="1200" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="298" timeToGo="1350" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="295" timeToGo="1500" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="292" timeToGo="1650" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="289" timeToGo="1800" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="286" timeToGo="1950" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="345" timeToGo="0" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="342" timeToGo="150" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="339" timeToGo="300" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="336" timeToGo="450" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="333" timeToGo="600" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="330" timeToGo="750" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="327" timeToGo="900" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="324" timeToGo="1050" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="321" timeToGo="1200" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="318" timeToGo="1350" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="315" timeToGo="1500" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="312" timeToGo="1650" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="309" timeToGo="1800" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+            <BulletGenerator size_X="60" size_Y="60" posPerc_X="50" posPerc_Y="15" angle="306" timeToGo="1950" range="2500" speed="5" spriteBullet="proj1" timePerFrameAnim="10000" damage="10" />
+        </BulletGenerators>
+    </Motif>
+
+    <Motif ID="20" Name="MotifSniper" procConditionPercentageHp="100" procConditionTime="10000" duration="5000" motifWeight="0">
+        <BulletGenerators>
+            <BulletGenerator size_X="30" size_Y="80" posPerc_X="25" posPerc_Y="0" angle="270" timeToGo="0" range="2500" speed="16" spriteBullet="proj2" timePerFrameAnim="10000" damage="20" />
+            <BulletGenerator size_X="30" size_Y="80" posPerc_X="75" posPerc_Y="0" angle="270" timeToGo="0" range="2500" speed="16" spriteBullet="proj2" timePerFrameAnim="10000" damage="20" />
+        </BulletGenerators>
+    </Motif>
+
+
+</Motifs>

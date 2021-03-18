@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Mobs>
+    <Mob ID="1" Name="mob1" Sprite="mob1.png" HP="1500" SizeX="354" SizeY="510" PosXPerc="50" posYPerc="20" Damage="10" MaxMotifSameTime="4" motifCDReduction="1" musique="balkany">
+        <Motifs>
+            <Motif ID="9" Nom="MotifBarage"/>
+            <Motif ID="7" Nom="MotifLance"/>
+            <Motif ID="1" Nom="MotifLigneDroite"/>
+            <Motif ID="4" Nom="MotifLigne"/>
+            <Motif ID="6" Nom="MotifEtoile"/>
+            <Motif ID="2" Nom="MotifCroix"/>
+            <Motif ID="5" Nom="MotifFouet"/>
+            <Motif ID="3" Nom="MotifLigneTroueMid"/>
+            <Motif ID="8" Nom="MotifTentacule"/>
+            <Motif ID="10" Nom="MotifBoules"/>
+            <Motif ID="6" Nom="MotifEtoile"/>
+        </Motifs>
+    </Mob>
+    <Mob ID="2" Name="mob2" Sprite="mob2.png" HP="2000" SizeX="150" SizeY="220" PosXPerc="50" posYPerc="10" Damage="15" MaxMotifSameTime="5" motifCDReduction="1" musique="balkany">
+        <Motifs>
+            <Motif ID="9" Nom="MotifBarage"/>
+            <Motif ID="6" Nom="MotifEtoile"/>
+            <Motif ID="7" Nom="MotifLance"/>
+            <Motif ID="1" Nom="MotifLigneDroite"/>
+            <Motif ID="14" Nom="MotifBordure"/>
+            <Motif ID="8" Nom="MotifTentacule"/>
+            <Motif ID="4" Nom="MotifLigne"/>
+            <Motif ID="2" Nom="MotifCroix"/>
+            <Motif ID="11" Nom="MotifTrains"/>
+            <Motif ID="5" Nom="MotifFouet"/>
+            <Motif ID="3" Nom="MotifLigneTroueMid"/>
+            <Motif ID="10" Nom="MotifBoules"/>
+            <Motif ID="6" Nom="MotifEtoile"/>
+            <Motif ID="14" Nom="MotifBordure"/>
+
+        </Motifs>
+    </Mob>
+    <Mob ID="3" Name="mob3" Sprite="mob3.png" HP="2500" SizeX="300" SizeY="440" PosXPerc="50" posYPerc="20" Damage="100" MaxMotifSameTime="5" motifCDReduction="0.9" musique="balkany">
+        <Motifs>
+            <Motif ID="12" Nom="MotifEclipse"/>
+            <Motif ID="12" Nom="MotifBarage"/>
+            <Motif ID="7" Nom="MotifLance"/>
+            <Motif ID="1" Nom="MotifLigneDroite"/>
+            <Motif ID="4" Nom="MotifLigne"/>
+            <Motif ID="6" Nom="MotifEtoile"/>
+            <Motif ID="2" Nom="MotifCroix"/>
+            <Motif ID="13" Nom="MotifChampMines"/>
+            <Motif ID="11" Nom="MotifTrains"/>
+            <Motif ID="5" Nom="MotifFouet"/>
+            <Motif ID="20" Name="MotifSniper"/>
+            <Motif ID="3" Nom="MotifLigneTroueMid"/>
+            <Motif ID="8" Nom="MotifTentacule"/>
+            <Motif ID="10" Nom="MotifBoules"/>
+            <Motif ID="12" Nom="MotifBarage"/>
+            <Motif ID="6" Nom="MotifEtoile"/>
+        </Motifs>
+    </Mob>
+
+    <Mob ID="4" Name="mob4" Sprite="mob4.png" HP="2200" SizeX="150" SizeY="220" PosXPerc="50" posYPerc="10" Damage="10" MaxMotifSameTime="5" motifCDReduction="0.5" musique="balkany">
+        <Motifs>
+            <Motif ID="19" Name="MotifClaque"/>
+            <Motif ID="19" Name="MotifTourbillon"/>
+            <Motif ID="15" Nom="MotifCercleTentaculaire"/>
+            <Motif ID="7" Nom="MotifLance"/>
+            <Motif ID="1" Nom="MotifLigneDroite"/>
+            <Motif ID="4" Nom="MotifLigne"/>
+            <Motif ID="6" Nom="MotifEtoile"/>
+            <Motif ID="17" Name="MotifCercleTentaculaireSimplex"/>
+            <Motif ID="2" Nom="MotifCroix"/>
+            <Motif ID="11" Nom="MotifTrains"/>
+            <Motif ID="15" Nom="MotifCercleTentaculaire"/>
+            <Motif ID="5" Nom="MotifFouet"/>
+            <Motif ID="19" Nom="MotifLigneTroueMid"/>
+            <Motif ID="20" Name="MotifSniper"/>
+            <Motif ID="8" Nom="MotifTentacule"/>
+            <Motif ID="10" Nom="MotifBoules"/>
+            <Motif ID="6" Nom="MotifEtoile"/>
+        </Motifs>
+    </Mob>
+    <Mob ID="5" Name="mob5" Sprite="mob5.png" HP="2200" SizeX="150" SizeY="220" PosXPerc="50" posYPerc="10" Damage="10" MaxMotifSameTime="5" motifCDReduction="0.5" musique="balkany">
+        <Motifs>
+            <Motif ID="19" Name="MotifClaque"/>
+            <Motif ID="19" Name="MotifTourbillon"/>
+            <Motif ID="15" Nom="MotifCercleTentaculaire"/>
+            <Motif ID="7" Nom="MotifLance"/>
+            <Motif ID="1" Nom="MotifLigneDroite"/>
+            <Motif ID="4" Nom="MotifLigne"/>
+            <Motif ID="6" Nom="MotifEtoile"/>
+            <Motif ID="17" Name="MotifCercleTentaculaireSimplex"/>
+            <Motif ID="2" Nom="MotifCroix"/>
+            <Motif ID="11" Nom="MotifTrains"/>
+            <Motif ID="15" Nom="MotifCercleTentaculaire"/>
+            <Motif ID="5" Nom="MotifFouet"/>
+            <Motif ID="19" Nom="MotifLigneTroueMid"/>
+            <Motif ID="20" Name="MotifSniper"/>
+            <Motif ID="8" Nom="MotifTentacule"/>
+            <Motif ID="10" Nom="MotifBoules"/>
+            <Motif ID="6" Nom="MotifEtoile"/>
+        </Motifs>
+    </Mob>
+    <Mob ID="6" Name="mob6" Sprite="mob6.png" HP="2200" SizeX="150" SizeY="220" PosXPerc="50" posYPerc="10" Damage="10" MaxMotifSameTime="5" motifCDReduction="0.5" musique="balkany">
+        <Motifs>
+            <Motif ID="19" Name="MotifClaque"/>
+            <Motif ID="19" Name="MotifTourbillon"/>
+            <Motif ID="15" Nom="MotifCercleTentaculaire"/>
+            <Motif ID="7" Nom="MotifLance"/>
+            <Motif ID="1" Nom="MotifLigneDroite"/>
+            <Motif ID="4" Nom="MotifLigne"/>
+            <Motif ID="6" Nom="MotifEtoile"/>
+            <Motif ID="17" Name="MotifCercleTentaculaireSimplex"/>
+            <Motif ID="2" Nom="MotifCroix"/>
+            <Motif ID="11" Nom="MotifTrains"/>
+            <Motif ID="15" Nom="MotifCercleTentaculaire"/>
+            <Motif ID="5" Nom="MotifFouet"/>
+            <Motif ID="19" Nom="MotifLigneTroueMid"/>
+            <Motif ID="20" Name="MotifSniper"/>
+            <Motif ID="8" Nom="MotifTentacule"/>
+            <Motif ID="10" Nom="MotifBoules"/>
+            <Motif ID="6" Nom="MotifEtoile"/>
+        </Motifs>
+    </Mob>
+</Mobs>
