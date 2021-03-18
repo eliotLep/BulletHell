@@ -99,7 +99,11 @@ public class GameView extends SurfaceView{
         //recuperer les bitmaps =====================================
         AssetManager manager=niveau.getAssets();
 
-        this.sprites.put("mob1", new Sprite(Drawer.getBitmap(manager,"mob1.png") ,new Vector2(5,1),new Vector2(59,85) ) );
+        Vector2 balkany = new Vector2(59,85);
+        Vector2 juno = new Vector2(65,82);
+
+
+        this.sprites.put("mob1", new Sprite(Drawer.getBitmap(manager,"mob1.png") ,new Vector2(5,1),balkany ) );
 
         this.sprites.put("mob2", new Sprite(Drawer.getBitmap(manager,"mob2.png") ,new Vector2(4,1),new Vector2(75,110) ) );
 
@@ -107,9 +111,17 @@ public class GameView extends SurfaceView{
 
         this.sprites.put("mob4", new Sprite(Drawer.getBitmap(manager,"mob4.png") ,new Vector2(4,1),new Vector2(75,110) ) );
 
-        this.sprites.put("mob5", new Sprite(Drawer.getBitmap(manager,"mob5.png") ,new Vector2(5,1),new Vector2(65,82) ) );
+        this.sprites.put("mob5", new Sprite(Drawer.getBitmap(manager,"mob5.png") ,new Vector2(5,1),juno ) );
 
-        this.sprites.put("mob6", new Sprite(Drawer.getBitmap(manager,"mob6.png") ,new Vector2(5,1),new Vector2(65,82) ) );
+        this.sprites.put("mob6", new Sprite(Drawer.getBitmap(manager,"mob6.png") ,new Vector2(5,1),juno ) );
+
+        this.sprites.put("mob7", new Sprite(Drawer.getBitmap(manager,"mob7.png") ,new Vector2(5,1),balkany) );
+
+        this.sprites.put("mob8", new Sprite(Drawer.getBitmap(manager,"mob8.png") ,new Vector2(5,1),balkany) );
+
+        this.sprites.put("mob9", new Sprite(Drawer.getBitmap(manager,"mob9.png") ,new Vector2(5,1),balkany) );
+
+        this.sprites.put("mob10", new Sprite(Drawer.getBitmap(manager,"mob10.png") ,new Vector2(5,1),balkany) );
 
         this.sprites.put("player1", new Sprite(Drawer.getBitmap(manager,"player1.png"),new Vector2(4,1),new Vector2(75,110) ) );
 

@@ -6,4 +6,8 @@
     <Niveau ID="4" Name="Niveau4" mob="mob4" imageNiveau="mob4_face.png"/>
     <Niveau ID="5" Name="Niveau5" mob="mob5" imageNiveau="mob5_face.png"/>
     <Niveau ID="6" Name="Niveau6" mob="mob6" imageNiveau="mob6_face.png"/>
+    <Niveau ID="7" Name="Niveau7" mob="mob7" imageNiveau="mob7_face.png"/>
+    <Niveau ID="8" Name="Niveau8" mob="mob8" imageNiveau="mob8_face.png"/>
+    <Niveau ID="9" Name="Niveau9" mob="mob9" imageNiveau="mob9_face.png"/>
+    <Niveau ID="10" Name="Niveau10" mob="mob10" imageNiveau="mob10_face.png"/>
 </Niveaux>
