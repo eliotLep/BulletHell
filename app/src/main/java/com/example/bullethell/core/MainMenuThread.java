@@ -26,26 +26,33 @@ public class MainMenuThread extends Thread{
         do {
             while (this.isRunning) {
                 this.controller.displayGraphics();
-                Log.e("test","boucleIn");
+                //Log.e("test","boucleIn");
             }
-            Log.e("test","boucleOut");
+            //Log.e("test","boucleOut");
+
+            try {
+                Thread.sleep(32);
+            } catch (InterruptedException e) {
+                e.printStackTrace();
+            }
+
         }while(isPaused || this.isRunning);
     }
 
     public void onQuit(){
-        Log.e("test","quit");
+        //Log.e("test","quit");
         this.isRunning=false;
         this.isPaused=false;
     }
 
     public void onPause(){
-        Log.e("test","pause");
+        //Log.e("test","pause");
         this.isPaused=true;
         this.isRunning=false;
     }
 
     public void onResume(){
-        Log.e("test","resume");
+        //Log.e("test","resume");
         this.isRunning=true;
         this.isPaused=false;
     }

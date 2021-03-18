@@ -34,7 +34,7 @@ public class ChoiceLevel extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_choix_niveaux);
 
-        int backGroundColor=Color.DKGRAY;
+        int backGroundColor=Color.BLACK;
 
         final GridView gridView = new GridView(this);
         gridView.setAdapter( new ChoiceLevelView(this,this,this.getNiveaux() ) );
