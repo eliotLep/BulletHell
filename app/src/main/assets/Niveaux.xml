@@ -10,4 +10,6 @@
     <Niveau ID="8" Name="Niveau8" mob="mob8" imageNiveau="mob8_face.png"/>
     <Niveau ID="9" Name="Niveau9" mob="mob9" imageNiveau="mob9_face.png"/>
     <Niveau ID="10" Name="Niveau10" mob="mob10" imageNiveau="mob10_face.png"/>
+    <Niveau ID="11" Name="Niveau11" mob="mob11" imageNiveau="mob11_face.png"/>
+    <Niveau ID="12" Name="Niveau12" mob="mob12" imageNiveau="mob12_face.png"/>
 </Niveaux>

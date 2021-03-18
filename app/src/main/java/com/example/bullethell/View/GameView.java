@@ -66,7 +66,12 @@ public class GameView extends SurfaceView{
     }
 
     private void addSound(){
+
         mapSound.put("balkany",com.example.bullethell.R.raw.balkany);
+        mapSound.put("sss",com.example.bullethell.R.raw.sss);
+        mapSound.put("bakamitai",com.example.bullethell.R.raw.bakamitai);
+        mapSound.put("juno",com.example.bullethell.R.raw.juno);
+
     }
 
     public void displayGraphics(java.util.List<Entity> entities){
@@ -122,6 +127,10 @@ public class GameView extends SurfaceView{
         this.sprites.put("mob9", new Sprite(Drawer.getBitmap(manager,"mob9.png") ,new Vector2(5,1),balkany) );
 
         this.sprites.put("mob10", new Sprite(Drawer.getBitmap(manager,"mob10.png") ,new Vector2(5,1),balkany) );
+
+        this.sprites.put("mob11", new Sprite(Drawer.getBitmap(manager,"mob11.png") ,new Vector2(1,1),new Vector2(17,24) ) );
+
+        this.sprites.put("mob12", new Sprite(Drawer.getBitmap(manager,"mob12.png") ,new Vector2(1,1),new Vector2(186,204) ) );
 
         this.sprites.put("player1", new Sprite(Drawer.getBitmap(manager,"player1.png"),new Vector2(4,1),new Vector2(75,110) ) );
 
